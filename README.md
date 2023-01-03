@@ -1,2 +1,2 @@
 # MonkeyViewer
-medical image viewer
+medical image viewer based on MonkeyGL( https://github.com/jiwenchen/MonkeyGL )
